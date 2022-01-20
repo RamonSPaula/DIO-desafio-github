@@ -1,0 +1,1 @@
+IDE usada será VS2019
